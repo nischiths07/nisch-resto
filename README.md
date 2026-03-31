@@ -1,7 +1,10 @@
 # NISCH-RESTO | Premium Fine Dining Website
 
 A modern, luxurious, and fully responsive restaurant website designed for NISCH-RESTO, a premium fine-dining establishment. This project showcases elevated culinary artistry through a sleek user interface, smooth animations, and a seamless reservation experience.
+<<<<<<< HEAD
 
+=======
+>>>>>>> c0d114e (Update email to snischith07@gmail.com and remove GitHub Actions deployment)
 
 
 ## 🍽️ Key Features

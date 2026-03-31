@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
         sections.forEach(section => {
             const sectionTop = section.offsetTop;
             const sectionHeight = section.clientHeight;
-            if (pageYOffset >= (sectionTop - 200)) {
+            if (window.scrollY >= (sectionTop - 200)) {
                 current = section.getAttribute('id');
             }
         });
@@ -32,10 +32,10 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Mobile Menu Toggle
-    menuToggle.onclick = () => {
+    menuToggle.addEventListener('click', () => {
         navItems.classList.toggle('active');
         menuToggle.classList.toggle('active');
-    };
+    });
 
     // Close menu when link is clicked
     navLinks.forEach(link => {
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
         };
     });
 
-    // Simple Form Submission (Mockup)
+    // Simple Form Submission 
     const resForm = document.getElementById('res-form');
     if (resForm) {
         resForm.addEventListener('submit', (e) => {

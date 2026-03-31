@@ -130,6 +130,13 @@ img {
     color: var(--gold);
 }
 
+.menu-toggle {
+    display: none;
+    cursor: pointer;
+    z-index: 1002;
+    transition: var(--transition);
+}
+
 .btn-primary {
     background-color: var(--gold);
     color: var(--black);

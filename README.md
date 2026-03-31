@@ -37,7 +37,7 @@ To run this project locally:
 ## 👨‍💻 Developer
 
 **Nischith**  
-📧 [nischith07@gmail.com](mailto:nischith07@gmail.com)
+📧 [snischith07@gmail.com](mailto:snischith07@gmail.com)
 
 ---
 *Crafting memories through culinary excellence.*

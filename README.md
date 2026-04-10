@@ -1,10 +1,7 @@
 # NISCH-RESTO | Premium Fine Dining Website
 
 A modern, luxurious, and fully responsive restaurant website designed for NISCH-RESTO, a premium fine-dining establishment. This project showcases elevated culinary artistry through a sleek user interface, smooth animations, and a seamless reservation experience.
-<<<<<<< HEAD
 
-=======
->>>>>>> c0d114e (Update email to snischith07@gmail.com and remove GitHub Actions deployment)
 
 
 ## 🍽️ Key Features
@@ -22,8 +19,7 @@ A modern, luxurious, and fully responsive restaurant website designed for NISCH-
 - **HTML5**: For semantic structure.
 - **CSS3 (Vanilla)**: Custom styling with CSS variables, Flexbox, and Grid.
 - **JavaScript**: For interactive components, scroll effects, and form handling.
-- **Google Fonts**: [Montserrat](https://fonts.google.com/specimen/Montserrat) & [Playfair Display](https://fonts.google.com/specimen/Playfair+Display).
-- **Font Awesome**: High-quality icons for social media and UI elements.
+
 
 ## 🚀 Getting Started
 
